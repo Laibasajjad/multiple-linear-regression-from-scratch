@@ -107,27 +107,27 @@ b := b - \alpha \frac{\partial J}{\partial b}
 ### 🔹 Cost Function Convergence
 Model learns by minimizing error over time:
 
-![Cost Curve](images/cost_curve.png)
+![Cost Curve](notebooks/images/cost_curve.png)
 
 ---
 
 ### 🔹 Regression Fit (Size vs Price)
 Model predictions closely match real values:
 
-![Regression Fit](images/regression_fit.png)
+![Regression Fit](notebooks/images/regression_fit.png)
 
 ---
 
 ### 🔹 Feature Analysis
 
 **Size vs Price**
-![Size vs Price](images/size_vs_price.png)
+![Size vs Price](notebooks/images/size_vs_price.png)
 
 **Bedrooms vs Price**
-![Bedrooms vs Price](images/bedrooms_vs_price.png)
+![Bedrooms vs Price](notebooks/images/bedrooms_vs_price.png)
 
 **Age vs Price**
-![Age vs Price](images/age_vs_price.png)
+![Age vs Price](notebooks/images/age_vs_price.png)
 
 ---
 
